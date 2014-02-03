@@ -33,7 +33,7 @@
   "extra": {
     "contao": {
       "sources": {
-        "": "assets/mootools/autocompleter/autocompleter"
+        "": "assets/mootools/autocompleter"
       }
     },
     "branch-alias": {
